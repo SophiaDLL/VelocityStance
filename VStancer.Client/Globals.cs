@@ -15,7 +15,7 @@
         /// <summary>
         /// The expected name of the resource
         /// </summary>
-        public const string ResourceName = "vstancer";
+        public const string ResourceName = "Velocity_Stance";
 
         /// <summary>
         /// The prefix used for commands exposed by the script

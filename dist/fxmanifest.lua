@@ -2,11 +2,10 @@ fx_version 'bodacious'
 games { 'gta5' }
 --dependency 'MenuAPI'
 
-name 'vstancer'
+name 'Velocity_Stance'
 author 'Neos7'
 description 'A script to edit wheels of vehicles'
 version 'v2.0.0'
-url 'https://github.com/carmineos/fivem-vstancer'
 
 files {
 	--'@MenuAPI/MenuAPI.dll',
